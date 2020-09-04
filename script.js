@@ -18,3 +18,5 @@ secretMessage[7] = 'right';
 // console.log(secretMessage.length);
 secretMessage.shift();
 // console.log(secretMessage.length);
+secretMessage.unshift('Programming');
+// console.log(secretMessage.length);
