@@ -14,3 +14,5 @@ secretMessage.pop();
 // console.log(secretMessage.length);
 secretMessage.push('to','Program');
 // console.log(secretMessage.length);
+secretMessage[7] = 'right';
+// console.log(secretMessage.length);
