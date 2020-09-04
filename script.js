@@ -9,3 +9,6 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what',
   'is', 'about', 'what', 'you', 'can', 'figure', 'out.',
   '-2015,', 'Chris', 'Pine,', 'Learn', 'JavaScript'];
 
+// console.log(secretMessage.length);
+secretMessage.pop();
+// console.log(secretMessage.length);
