@@ -16,3 +16,5 @@ secretMessage.push('to','Program');
 // console.log(secretMessage.length);
 secretMessage[7] = 'right';
 // console.log(secretMessage.length);
+secretMessage.shift();
+// console.log(secretMessage.length);
