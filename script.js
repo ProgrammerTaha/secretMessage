@@ -12,11 +12,13 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what',
 // console.log(secretMessage.length);
 secretMessage.pop();
 // console.log(secretMessage.length);
-secretMessage.push('to','Program');
+secretMessage.push('to', 'Program');
 // console.log(secretMessage.length);
 secretMessage[7] = 'right';
 // console.log(secretMessage.length);
 secretMessage.shift();
 // console.log(secretMessage.length);
 secretMessage.unshift('Programming');
+// console.log(secretMessage.length);
+secretMessage.splice(6, 5, 'know,');
 // console.log(secretMessage.length);
